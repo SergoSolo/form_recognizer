@@ -1,0 +1,22 @@
+[
+    {   "_id": 1,
+        "form_name": "registration_form",
+        "username": "text",
+        "password": "text",
+        "phone": "phone"
+    },
+    {
+        "_id": 2,
+        "form_name": "lite_registration_form",
+        "username": "text",
+        "password": "text",
+        "email": "email"
+    },
+    {
+        "_id": 3,
+        "form_name": "login_form",
+        "email": "email",
+        "password": "text",
+        "date": "date"
+    }
+]
